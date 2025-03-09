@@ -16,13 +16,13 @@ I'm a student at UC Santa Barbara with a strong interest of  deep reinforcement 
 - Integration of physics-informed machine learning (PIML) with data-driven models for improved prediction of complex systems.
 
 ## Experience
-- 🧪 **Undergraduate Research Assistant** at UC Santa Barbara (Feb 2025 - Present)<br>
+- 🧪 **Undergraduate Research Assistant** at UC Santa Barbara <br>
   *Applying unsupervised learning to identify coherent structures in turbulent flows*
   
-- 📊 **Data Scientist and Engineering Intern** at Teamcook Co (Nov 2024 - Feb 2025)<br>
+- 📊 **Data Scientist and Engineering Intern** at Teamcook Co <br>
   *Developed time-series forecasting models and optimized operations through data-driven approaches*
   
-- 🏎️ **Sensor & Data Development Team** at UCSB Gaucho Racing (Jan - Jun 2024)<br>
+- 🏎️ **Sensor & Data Development Team** at UCSB Gaucho Racing <br>
   *Built real-time telemetry systems with applications to predictive maintenance*
 
 ## Featured Projects
