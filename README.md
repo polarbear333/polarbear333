@@ -27,7 +27,7 @@ I'm a student at UC Santa Barbara with a strong interest of  deep reinforcement 
 
 ## Featured Projects
 
-### [RAG-based E-commerce Recoemmender System](https://github.com/polarbear333/llm-rag-ecommerce-recommender)
+### [RAG-based E-commerce Recoemmender System](https://github.com/polarbear333/rag-llm-based-recommender)
 A full-stack AI recommendation system leveraging vector search and LLMs:
 - Implemented semantic product search based on natural language queries
 - Built vector embeddings pipeline in Google Cloud Platform
