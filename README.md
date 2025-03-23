@@ -24,31 +24,7 @@ I'm a student at UC Santa Barbara with a strong interest of  deep reinforcement 
   
 - 🏎️ **Sensor & Data Development Team** at UCSB Gaucho Racing <br>
   *Built real-time telemetry systems with applications to predictive maintenance*
-
-## Featured Projects
-
-### [RAG-based E-commerce Recoemmender System](https://github.com/polarbear333/rag-llm-based-recommender)
-A full-stack AI recommendation system leveraging vector search and LLMs:
-- Implemented semantic product search based on natural language queries
-- Built vector embeddings pipeline in Google Cloud Platform
-- Created retrieval-augmented generation (RAG) system with LangChain
-- Developed microservices architecture with FastAPI, BigQuery, and Vertex AI
-- Optimized vector search using ScaNN for high-performance similarity matching
-
-### [heuristic-tetris-DQN](https://github.com/polarbear333/heuristic-tetris-DQN)
-A reinforcement learning project demonstrating my interest in RL algorithms:
-- Combined domain-specific heuristics with Deep Q-Networks
-- Implemented prioritized experience replay for efficient learning
-- Designed custom reward shaping to accelerate training
-- Created MLOps pipeline with automated metric tracking and model versioning
-
-### [DXD9-Internal-Framework](https://github.com/polarbear333/DXD9-Internal-Framework)
-A low-level systems project exploring DirectX internals:
-- Implemented custom hooking of DirectX9 EndScene function
-- Built modular framework for experimenting with game systems
-- Integrated ImGui for real-time debugging and visualization
-- Uses systems-level programming techniques like pointer arithmetic and derefencing with WinAPI
-
+  
 ## Education
 🎓 **University of California, Santa Barbara** (Sep 2023 - Current)  
 Bachelor of Science in Statistics & Data Science
