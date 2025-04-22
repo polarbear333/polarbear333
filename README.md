@@ -3,34 +3,17 @@
 ## About Me
 I'm a student at UC Santa Barbara with a strong interest of  deep reinforcement learning, control theory, and scalable ML systems. I'm interested in learning about the design of intelligent autonomous systems as well as the infrastructure needed to deploy them in productions. Aside from academic interests, I'm also motivated to innovate and create effective solutions, both for the open source community through collaborative development, and for real-world business challenges with data-driven approaches.
 
-🔭 **Research Interests:**
-- **Deep Reinforcement Learning** for autonomous systems and robotics
+**Research Interests:**
+- **Deep Reinforcement Learning** for video games and autonomous systems 
 - **Data-Driven Control** methods that combine classical control theory with modern machine learning
-- **MLOps** and infrastructure for deploying production-grade machine learning systems
+- **MLOps** and **Distributed Systems** for deploying production-grade machine learning systems
 - **ML Algorithms and Natural Language Processing** for building intelligent information retrieval systems
 
-🌱 **Currently exploring:**
-- Advanced RL algorithms (DQN, PPO, SAC) for robotic control tasks
-- Scalable infrastructure for training and deploying ML models
-- Bridging the gap between simulation and real-world deployment
-- Integration of physics-informed machine learning (PIML) with data-driven models for improved prediction of complex systems.
-
-## Experience
-- 🧪 **Undergraduate Research Assistant** at UC Santa Barbara <br>
-  *Applying unsupervised learning to identify coherent structures in turbulent flows*
-  
-- 📊 **Data Scientist and Engineering Intern** at Teamcook Co <br>
-  *Developed time-series forecasting models and optimized operations through data-driven approaches*
-  
-- 🏎️ **Sensor & Data Development Team** at UCSB Gaucho Racing <br>
-  *Built real-time telemetry systems with applications to predictive maintenance*
-  
-## Education
-🎓 **University of California, Santa Barbara** (Sep 2023 - Current)  
-Bachelor of Science in Statistics & Data Science
-
-🎓 **City College of San Francisco** (Sep 2021 - May 2023)<br>
-Majored in Computer Science
+ **Currently exploring:**
+- Building robust distributed training infrastructure for large-scale ML and AI model deployment.
+- Advanced RL algorithms (DQN, PPO, SAC) for real-time autonomous sytems and state-action space in video games.
+- Designing efficient MLOps workflows tailored for AI agent systems, focused on automated agent deployment, monitoring and reliability in production environments.
+- Developing algorithms and NLP techniques to enhance intelligent information retrieval, search relevance, and recommendation systems.
 
 ## Connect With Me
 <p>
