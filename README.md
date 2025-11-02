@@ -3,7 +3,7 @@
 >
 > P.S. Currently open to early career roles, internships, and research opportunities in ML and data-related fields.
 > 
-> Feel free to contact me via email: [matthewchan193@gmail.com](mailto:matthewchan193@gmail.com)
+> Feel free to contact me via email: [mattchan@polarbear333.dev](mailto:mattchan@polarbear333.dev)
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/polarbear333/fd6cc5f724161bd2c08d9a9b94e2cfd4/raw/github-metrics-left.svg">](#)
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/polarbear333/fd6cc5f724161bd2c08d9a9b94e2cfd4/raw/github-metrics-right.svg">](#)
